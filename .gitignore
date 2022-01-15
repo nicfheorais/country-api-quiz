@@ -1,4 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#sinead ones:
+.prettierrc
+.secret_api_key_file
 
 # dependencies
 /node_modules
