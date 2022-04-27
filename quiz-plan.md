@@ -9,6 +9,18 @@
     -   display a country clue for a specific country (i am using sweden, 247, initially)
     -   display a Guess field and Guess button
 
+[user types in a guess and presses 'Guess']
+
+-   either display 'correct'  
+    or
+    display 'wrong' AND display a Guess Again field and Guess Again button AND display the hint in a 'list' below? and display the incorrect guess in a list below (css - red line strikethrough) - a history?
+
+phase 2
+
+-   potentially per session current guesses left (5/10), no. games played, rolling score etc. - w
+
+-   if login allowed - username, previous scores etc.
+
 ## Next Goals to achieve a fully functioning app
 
 -   change so that a random country is retrieved (rather than one hardcoded one)

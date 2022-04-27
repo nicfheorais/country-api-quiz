@@ -1,0 +1,111 @@
+<mxfile host="65bd71144e">
+    <diagram id="pRhzxuRariPdzjfboZ-Y" name="Page-1">
+        <mxGraphModel dx="1632" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="110" width="950" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Incorrect" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="364" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="MOBILE DESIGN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="60" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="110" width="330" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="DESKTOP DESIGN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="60" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="GUESS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="266" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;font color=&quot;#2a2a2a&quot;&gt;enter your guess here&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;fontColor=#1A1A1A;fontSize=17;spacingLeft=16;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="266" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Country Quiz App" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=34;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="150" width="280" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Read the hint and guess the country. Up to 10 chances" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="200" width="530" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="3. population of 65 million?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="281" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="2. Total area of 45,000 &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;square kms?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="349" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="1. flag is orange and &lt;br&gt;&amp;nbsp; &amp;nbsp; green?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="429" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="You guessed: Rwanda" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#999999;html=1;strikethrough=true" vertex="1" parent="1">
+                    <mxGeometry x="680" y="364" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="Incorrect" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="444" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="You guessed: Indonesia" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#999999;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="444" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=none;html=1;fontSize=32;fontColor=#2A2A2A;" edge="1" parent="1" target="66">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="395" y="370.875" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="GUESS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="270" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;font color=&quot;#2a2a2a&quot;&gt;enter your guess here&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;fontColor=#1A1A1A;fontSize=17;spacingLeft=16;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="270" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="Country Quiz App" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=34;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="136" width="280" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="Read the hint and guess the &lt;br style=&quot;font-size: 19px;&quot;&gt;country. Up to 10 chances" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="190" width="250" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="3. population of 65 million?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="42" y="332" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="" style="edgeStyle=none;html=1;fontSize=32;fontColor=#999999;" edge="1" parent="1" source="86" target="85">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="2. Total area of 45,000 &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;square kms?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="42" y="405" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="1. flag is orange and &lt;br&gt;&amp;nbsp; &amp;nbsp; green?" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#2A2A2A;" vertex="1" parent="1">
+                    <mxGeometry x="47" y="495" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;font color=&quot;#999999&quot;&gt;R̶w̶a̶n̶d̶a̶&lt;/font&gt;" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#7D7D7D;html=1;strikethrough=true" vertex="1" parent="1">
+                    <mxGeometry x="72" y="365" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="&amp;nbsp;̶I̶n̶d̶o̶n̶e̶s̶i̶a̶" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;fontColor=#999999;" vertex="1" parent="1">
+                    <mxGeometry x="67" y="465" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=21;fontColor=#2A2A2A;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="362" y="495" as="sourcePoint"/>
+                        <mxPoint x="347" y="487.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="240" width="830" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="412" y="140" width="830" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="245" width="305" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="WHILE PLAYING" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="47" y="10" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="AFTER A WIN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="30" y="630" width="420" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
