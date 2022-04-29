@@ -1,14 +1,16 @@
 # "Guess the Country" Quiz App
 
-Guess a random country based on a series of facts - front end React app retrieving data from RESTful API
+Guess a randomly-selected country, based on a series of hints. Front end React app, retrieving data from RESTful API.
 
-with thanks to the API creators of https://restcountries.com/v3.1, which i'm using for this demo
+_with thanks to the API creators of https://restcountries.com/v3.1, which i'm using for this demo_
 
 ## Aim
 
-Given a series of facts about a country chosen at random, the aim is for the player to guess the country with as few facts as possible. Each time the player makes an incorrect guess, an additional country fact displays, and the old facts, and incorrect answers, are displayed in a list.
+Given a series of facts about a country chosen at random, the aim is for the player to guess the country using as few facts as possible. Each time the player makes an incorrect guess, an additional country-related fact displays, whilst the previous facts, and guesses, are also displated below.
 
 ## How to play
+
+### Process
 
 -   Press play
 -   A random country is retrieved from the API and the game is afoot
@@ -17,11 +19,14 @@ Given a series of facts about a country chosen at random, the aim is for the pla
 -   The application checks - if they are right - they win that round
 -   if they are not right, a new fact is displayed and the player can guesss again
 -   there is a 'give up button' and the anser is displayed.
--
 
-## Scoring
+### Scoring
 
--   player starts with 10 points. Loeses a point for each fact displayed before they guess the right answer. When 10 facts are displayed, or when the player presses the 'give up' button, the answer is shown.
+-   player starts with 10 points. Loses a point for each fact displayed before they guess the right answer.
+
+### Ending the Game
+
+-   When the player guesses the country correctly, or when the 10 facts/hints have been used up without guessing correctly, or when the player short-circuits the game by pressing the 'i give up' button, then the games ends and the correct answer is shown.
 
 ## Design
 

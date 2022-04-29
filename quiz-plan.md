@@ -12,10 +12,21 @@
 [user types in a guess and presses 'Guess']
 
 -   either display 'correct'  
-    or
+     or
     display 'wrong' AND display a Guess Again field and Guess Again button AND display the hint in a 'list' below? and display the incorrect guess in a list below (css - red line strikethrough) - a history?
 
-phase 2
+        Ending:
+        The game ends in one of three ways
+        = the person guesses the country corrctly
+        = the person runs out of hints
+        = the person gives up.
+        Each of these will require slightly different messages
+
+
+        Game - not started
+        - in progress -
+
+    phase 2
 
 -   potentially per session current guesses left (5/10), no. games played, rolling score etc. - w
 
