@@ -12,13 +12,14 @@ Given a series of facts about a country chosen at random, the aim is for the pla
 
 ### Process
 
--   Press play
--   A random country is retrieved from the API and the game is afoot
--   A single fact about that country is displayed
+-   when the page loads,
+    -   In the background, a random country is retrieved from the API and
+    -   A single fact about that country is displayed
 -   the player enters a guess and presses 'Guess' when happy
--   The application checks - if they are right - they win that round
--   if they are not right, a new fact is displayed and the player can guesss again
--   there is a 'give up button' and the anser is displayed.
+-   The application checks - if they are correct - they win (that round?)
+-   if they are not correct, a new fact is displayed and the player can guesss again
+-   the previous facts and guesses are displayed in a groing list inderneath the current hint and guess entry field
+-   there is an 'i give up' button/link - if this is pressed, the games ends and the answer is displayed.
 
 ### Scoring
 
@@ -26,7 +27,10 @@ Given a series of facts about a country chosen at random, the aim is for the pla
 
 ### Ending the Game
 
--   When the player guesses the country correctly, or when the 10 facts/hints have been used up without guessing correctly, or when the player short-circuits the game by pressing the 'i give up' button, then the games ends and the correct answer is shown.
+-   When the player guesses the country correctly,
+-   or when the 10 facts/hints have been used up without guessing correctly,
+-   or when the player short-circuits the game by pressing the 'i give up' button,
+    then the games ends and the correct answer is shown.
 
 ## Design
 
